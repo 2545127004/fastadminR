@@ -1,0 +1,3 @@
+---------------------------------------------------------------
+[ 2020-11-06T16:19:50+08:00 ] 0.0.0.0 GET fastadmin/xfkZQJCazG.php/general/logs?addtabs=1
+[ error ] [2]array_filter() expects parameter 1 to be array, bool given
